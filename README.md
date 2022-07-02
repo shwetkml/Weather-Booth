@@ -2,7 +2,7 @@
 
 ![](weather.gif)
 
-### Demo - Deployed over Github Pages 
+### Deployed over Github Pages 
 https://github.com/shwetkml/react-weather-app.git
 
 ### APIs Used
