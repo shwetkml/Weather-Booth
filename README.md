@@ -1,4 +1,4 @@
-# React Weather App 
+# Weather Booth App 
 
 ![](weather.gif)
 
